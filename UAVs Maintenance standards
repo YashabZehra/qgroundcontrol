@@ -1,0 +1,29 @@
+# NEW UAV SETUP CHECKLIST
+
+## PREPARATION
+- [ ] Record basic details
+
+## PARTS INSPECTION
+- [ ] Unpack all components
+- [ ] Check all components
+- [ ] Replace broken or missing components
+- [ ] Charge batteries
+
+## ASSEMBLY
+- [ ] Read the manual
+- [ ] Unfold drone
+- [ ] Remove gimbal clamp
+- [ ] Install propellers
+- [ ] Insert batteries
+- [ ] Install Engine
+- [ ] Activate control application(s)
+
+## CALIBRATION
+- [ ] Calibrate Global Positioning System (GPS)
+- [ ] Calibrate compass
+- [ ] Calibrate Inertial Measurement Unit (IMU)
+- [ ] Calibrate Return to Home (RTH)
+- [ ] Check storage card is inserted
+
+## TESTING
+- [ ] Perform test flight
