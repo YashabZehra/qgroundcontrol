@@ -20,7 +20,7 @@ The settings are:
 - **Distance**: Meters | Feet
 - **Area**: SquareMetres | SquareFeet | SquareKilometers | Hectares | Acres | SquareMiles
 - **Speed**: Metres/second | Feet/second | Miles/hour | Kilometres/hour | Knots
-- **Temperature**: Celsius | Fahrenheit
+- **Temperature**: Celsius | Fahrenheit | Radian
 
 ## Miscellaneous
 
